@@ -14,7 +14,6 @@
 
 ## 👨‍💻 Professional Summary
 Senior **Penetration Tester & Red Team Specialist** with **9+ years of hands-on experience** in offensive security, vulnerability research, and compliance-driven security testing.  
-Currently leading security assessments at **Granite River Labs**, focusing on **network devices, IoT systems, telecom products, and protocol-level security**.
 
 - 🏴 Synack Red Team member  
 - 🧨 100+ CVEs assigned by MITRE  
