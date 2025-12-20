@@ -1,39 +1,21 @@
-### Hi there 👋
+<!-- ================= TERMINAL / HACKER BANNER ================= -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2600&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1100&height=90&lines=$+whoami;$+sudoninja;$+Senior+Penetration+Tester;$+100%2B+CVEs+|+OSCP+|+Synack+Red+Team;$+Access+Granted..." />
+</div>
 
-<!--
-**sudoninja-noob/sudoninja-noob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sudoninja-noob&label=Profile%20Views&color=00ff00&style=flat-square" />
+  <a href="https://www.linkedin.com/in/sanjaysingh06">
+    <img src="https://img.shields.io/badge/LinkedIn-00ff00?style=flat-square&logo=linkedin&logoColor=black" />
+  </a>
+  <a href="https://github.com/sudoninja-noob">
+    <img src="https://img.shields.io/badge/GitHub-00ff00?style=flat-square&logo=github&logoColor=black" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-👨I'm sudoninja
-🔭Penetration Tester  
-🎓OSCP, CPTE
-
-
-[![sudoninja GitHub stats](https://github-readme-stats.vercel.app/api?username=sudoninja-noob&show_icons=true&theme=radical)](https://github.com/sudoninja-noob/github-readme-stats)
-
-👨 I'm sudoninja
-🏠 I’m from India.
-💻 I'm learning about Security.
-
-## Social Networks
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/sudoninja-noob)](https://github.com/sudoninja-noob)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanjaysingh06)](https://www.linkedin.com/in/sanjaysingh06)
-
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/sudoninja_)](https://twitter.com/sudoninja_)
-
-## Programming Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudoninja-noob&langs_count=8)](https://github.com/sudoninja-noob/github-readme-stats)
+## 👨‍💻 About Me
+```bash
+┌──(root㉿kali)-[/home/sudoninja]
+└─$ cat profile.txt
