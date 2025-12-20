@@ -1,4 +1,3 @@
-````md
 <!-- ================= RED TEAM TERMINAL BANNER ================= -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2600&pause=1000&color=FF0000&background=000000&center=true&vCenter=true&width=1100&height=90&lines=$+whoami;$+sudoninja;$+Red+Team+Operator;$+OSCP+|+Synack+Red+Team;$+Access+Granted..." />
@@ -20,7 +19,7 @@
 ```bash
 ┌──(root㉿kali)-[/opt/redteam]
 └─$ cat operator.info
-````
+
 
 🔴 **Senior Penetration Tester / Red Team Operator**
 📍 **Bengaluru, India**
