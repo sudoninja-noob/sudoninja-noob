@@ -1,78 +1,107 @@
+Excellent choice 🔥
+Below is your **RED-TEAM / OFFENSIVE-SECURITY VERSION** of the GitHub profile README, now with:
 
-<!-- ================= TERMINAL / HACKER BANNER ================= -->
+✅ **Your real certifications (OSCP, CPTE, CRTP, CAPT, CEH, CNSP, etc.)**
+✅ **TryHackMe LIVE badge**
+✅ **Hardcore Red-Team tone**
+✅ **Still professional & senior-level**
+✅ **Backed by CVEs, Synack, GRL experience**
+
+This is **elite-tier** and fits someone with **9–10+ years** experience.
+
+---
+
+# 🟥 FINAL: RED TEAM / OFFENSIVE SECURITY README
+
+👉 Paste this into `README.md` of **`sudoninja-noob`**
+
+````md
+<!-- ================= RED TEAM TERMINAL BANNER ================= -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2600&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1100&height=90&lines=$+whoami;$+sudoninja;$+Senior+Penetration+Tester;$+100%2B+CVEs+|+OSCP+|+Synack+Red+Team;$+Access+Granted..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2600&pause=1000&color=FF0000&background=000000&center=true&vCenter=true&width=1100&height=90&lines=$+whoami;$+sudoninja;$+Red+Team+Operator;$+OSCP+|+Synack+Red+Team;$+Access+Granted..." />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudoninja-noob&label=Profile%20Views&color=00ff00&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=sudoninja-noob&label=Profile%20Views&color=red&style=flat-square" />
   <a href="https://www.linkedin.com/in/sanjaysingh06">
-    <img src="https://img.shields.io/badge/LinkedIn-00ff00?style=flat-square&logo=linkedin&logoColor=black" />
+    <img src="https://img.shields.io/badge/LinkedIn-red?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/sudoninja-noob">
-    <img src="https://img.shields.io/badge/GitHub-00ff00?style=flat-square&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/GitHub-red?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 Operator Profile
 ```bash
-┌──(root㉿kali)-[/home/sudoninja]
-└─$ cat profile.txt
+┌──(root㉿kali)-[/opt/redteam]
+└─$ cat operator.info
 ````
 
-🔐 **Senior Penetration Tester | Cybersecurity Leader**
+🔴 **Senior Penetration Tester / Red Team Operator**
 📍 **Bengaluru, India**
-🎓 **OSCP | CPTE | CRTP | CAPT | CEH | CNSP**
 🏴 **Synack Red Team | 100+ CVEs (MITRE)**
+🎓 **OSCP | CPTE | CRTP | CAPT | CEH | CNSP**
 
-* 9+ years securing **routers, Wi-Fi devices, IoT & telecom products**
-* Lead security testing at **Granite River Labs**
-* Specialized in **device security, protocol fuzzing & compliance testing**
-* Proven vulnerability researcher with global **Hall of Fame recognitions**
+* 9+ years in **offensive security & exploitation**
+* Specialized in **routers, Wi-Fi, IoT & telecom devices**
+* Red-team style testing: **assume breach, chain exploits**
+* Break systems → identify root cause → harden designs
 
 ---
 
-## 🎯 Core Expertise (Offensive Security)
+## 🎯 Red Team Capabilities
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Web_App_Pentesting-00ff00?style=for-the-badge&logo=owasp&logoColor=black" />
-  <img src="https://img.shields.io/badge/API_Pentesting-00ff00?style=for-the-badge&logo=fastapi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Network_Pentesting-00ff00?style=for-the-badge&logo=cisco&logoColor=black" />
-  <img src="https://img.shields.io/badge/IoT_%26_Device_Security-00ff00?style=for-the-badge&logo=raspberrypi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Protocol_Fuzzing-00ff00?style=for-the-badge&logo=gnu&logoColor=black" />
+  <img src="https://img.shields.io/badge/Web_App_Exploitation-8B0000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/API_Attack_Chains-8B0000?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network_Exploitation-8B0000?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT_&_Firmware_Hacking-8B0000?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Protocol_Fuzzing-8B0000?style=for-the-badge&logo=gnu&logoColor=white" />
 </p>
 
 ---
 
-## 🛠️ Tools, Tech & Arsenal
+## 🛠️ Offensive Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,python,bash,git,docker&perline=8" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Burp_Suite-00ff00?style=for-the-badge&logo=burpsuite&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nmap-00ff00?style=for-the-badge&logo=nmap&logoColor=black" />
-  <img src="https://img.shields.io/badge/Wireshark-00ff00?style=for-the-badge&logo=wireshark&logoColor=black" />
-  <img src="https://img.shields.io/badge/Metasploit-00ff00?style=for-the-badge&logo=metasploit&logoColor=black" />
-  <img src="https://img.shields.io/badge/Defensics_Fuzzer-00ff00?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Burp_Suite-red?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-red?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-red?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-red?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Defensics_Fuzzing-red?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 ---
 
-## 🧾 Standards & Compliance Testing
+## 🎓 Certifications (Verified)
 
-* 🇮🇳 **ITSAR / NCCS-ITASR**
-* 🇪🇺 **EN 303 645 / EN 18031**
-* 📜 **ISO/IEC 17025**
-* 🚗 **ISO 21434 (Automotive Cybersecurity)**
-* 📡 **Telecom & Network Device Security**
+<p align="center">
+  <img src="https://img.shields.io/badge/OSCP-Offensive_Security-black?style=for-the-badge&logo=offensive-security" />
+  <img src="https://img.shields.io/badge/CPTE-Mile2-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CRTP-Red_Team-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CAPT-API_Hacking-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CEH-v12-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CNSP-Network_Security-black?style=for-the-badge" />
+</p>
 
 ---
 
-## 🏆 Research & Achievements
+## 🧪 Labs & Live Platforms
+
+<p align="center">
+  <!-- Replace USERNAME if needed -->
+  <img src="https://tryhackme-badges.s3.amazonaws.com/sudoninja.png" alt="TryHackMe Badge" />
+</p>
+
+---
+
+## 🏆 Research & Impact
 
 * 🧨 **100+ CVEs assigned by MITRE**
 * 🏅 Hall of Fame: **ISRO, BASF, Zynga, Wise, Naspers**
@@ -83,20 +112,20 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Ops Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sudoninja-noob&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoninja-noob&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sudoninja-noob&show_icons=true&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoninja-noob&layout=compact&langs_count=8&theme=dark&hide_border=true" />
 </div>
 
 <p align="center">
-  <img width="720" src="https://github-readme-streak-stats.herokuapp.com/?user=sudoninja-noob&theme=chartreuse-dark&hide_border=true" />
+  <img width="720" src="https://github-readme-streak-stats.herokuapp.com/?user=sudoninja-noob&theme=dark&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Activity Graph
+## 🐍 Persistence
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
@@ -104,31 +133,21 @@
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Contact / Ops Channel
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjaysingh06">
-    <img src="https://img.shields.io/badge/LinkedIn-00ff00?style=for-the-badge&logo=linkedin&logoColor=black" />
+    <img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://sudoninja-noob.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-00ff00?style=for-the-badge&logo=githubpages&logoColor=black" />
+    <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=900&color=00FF00&background=000000&center=true&vCenter=true&width=900&height=70&lines=BREAK+SYSTEMS.+FIND+TRUTH.;SECURE+WHAT+MATTERS.;HACK+ETHICALLY." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=900&color=FF0000&background=000000&center=true&vCenter=true&width=900&height=70&lines=ASSUME+BREACH.;CHAIN+EXPLOITS.;BREAK+QUIETLY.;REPORT+LOUDLY." />
 </div>
 ```
-
----
-
-## 💡 Why this README is **elite**
-
-* 🔥 Hacker vibe **without looking fake**
-* 🧠 Shows **real senior expertise**
-* 🏴 CVEs + Synack = instant credibility
-* 💼 Works for **recruiters & security leaders**
-* 🚀 Future-proof (you can add labs/repos)
 
 ---
 
