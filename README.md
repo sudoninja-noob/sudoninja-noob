@@ -1,4 +1,4 @@
-# Sanjay Singh | Senior Penetration Tester & Red Team Operator
+# Sanjay Singh |  Penetration Tester 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sudoninja-noob&label=Profile%20Views&color=0e75b6&style=flat-square" />
