@@ -1,20 +1,3 @@
-Excellent choice 🔥
-Below is your **RED-TEAM / OFFENSIVE-SECURITY VERSION** of the GitHub profile README, now with:
-
-✅ **Your real certifications (OSCP, CPTE, CRTP, CAPT, CEH, CNSP, etc.)**
-✅ **TryHackMe LIVE badge**
-✅ **Hardcore Red-Team tone**
-✅ **Still professional & senior-level**
-✅ **Backed by CVEs, Synack, GRL experience**
-
-This is **elite-tier** and fits someone with **9–10+ years** experience.
-
----
-
-# 🟥 FINAL: RED TEAM / OFFENSIVE SECURITY README
-
-👉 Paste this into `README.md` of **`sudoninja-noob`**
-
 ````md
 <!-- ================= RED TEAM TERMINAL BANNER ================= -->
 <div align="center">
