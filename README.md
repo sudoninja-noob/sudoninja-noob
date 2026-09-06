@@ -149,30 +149,6 @@ Offensive and defensive tooling built for real-world security assessments, resea
 
 <br/>
 
-## `$ cat services.yaml`
-
-| Service | What's Covered |
-|---|---|
-| **Web Application Testing** | Black-box, gray-box & authenticated testing against OWASP Top 10 and beyond |
-| **Mobile App Testing** | Static & dynamic analysis of Android & iOS apps with business logic review |
-| **Network & Infra Testing** | External and internal pentesting for servers, firewalls & routers |
-| **API Security Testing** | REST, SOAP & GraphQL tested for auth, access control, injection & logic flaws |
-| **IoT & Telecom Security** | Testing per EN 303-645 & EN 18031 — firmware to protocol, full product coverage |
-| **Reporting & Guidance** | Clear PoC-backed reports with risk ratings and actionable remediation |
-
-<br/>
-
-## `$ cat engagement_models.yaml`
-
-| Tier | Price | Scope |
-|---|:--:|---|
-| **Starter** | `$199` | Vulnerability Assessment — asset & subdomain discovery, port/service mapping, tech fingerprinting, report in 3 days |
-| **Professional** | `$299` | Network Pentest — attack surface mapping, automated + manual scanning & validation, report in 5 days |
-| **Enterprise** | `$499` | Web App Pentest — full manual + automated testing, business logic review, retest window, report in 15 days |
-
-*Indicative pricing — actual cost depends on scope, complexity & depth required.*
-
-<br/>
 
 ## `$ git log --stats`
 
