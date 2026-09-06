@@ -180,7 +180,7 @@ Offensive and defensive tooling built for real-world security assessments, resea
 
 **Need a security assessment, product hardening, or research collaboration? I'm available.**
 
-📍 Bangalore, Karnataka, India &nbsp;|&nbsp; 📞 +91 7000740649
+📍 Bangalore, Karnataka, India &nbsp;|&nbsp; 📞 +91 XXXXXXXXXX
 
 [![Email](https://img.shields.io/badge/Email-sanjaysinghss3%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjaysinghss3@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjaysingh06)
